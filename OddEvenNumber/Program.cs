@@ -10,6 +10,10 @@ namespace OddEvenNumber
     {
         static void Main(string[] args)
         {
+
+
+
+
         }
     }
 }
